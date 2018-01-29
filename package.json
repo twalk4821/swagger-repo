@@ -35,8 +35,8 @@
     "lodash": "^4.5.0",
     "mkdirp": "^0.5.1",
     "require-dir": "^0.3.1",
-    "swagger-editor": "^2.10.3",
-    "swagger-ui": "^2.1.4",
+    "swagger-editor": "^3.2.5",
+    "swagger-ui": "^3.9.3",
     "sway": "^0.6.0"
   }
 }
