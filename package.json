@@ -1,11 +1,11 @@
 {
   "name": "swagger-repo",
   "version": "1.4.2",
-  "description": "CLI tool to help you manage your OpenAPI(fka Swagger) repo.",
+  "description": "(Fork) CLI tool to help you manage your OpenAPI(fka Swagger) repo.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rebilly/swagger-repo.git"
+    "url": "https://github.com/twalk4821/swagger-repo.git"
   },
   "keywords": [
     "API",
